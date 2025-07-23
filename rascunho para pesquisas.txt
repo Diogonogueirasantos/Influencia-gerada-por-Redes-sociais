@@ -1,0 +1,4 @@
+* Fazer uma tabela frequência para a visualização dos generos
+
+
+* referencias para visualização exploratória: https://seaborn.pydata.org/examples/index.html / https://plotly.com/python/
