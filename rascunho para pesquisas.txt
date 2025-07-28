@@ -2,3 +2,17 @@
 
 
 * referencias para visualização exploratória: https://seaborn.pydata.org/examples/index.html / https://plotly.com/python/
+
+
+* paleta de cores (viridis): #2B3372, #33848D, #92C391
+* paleta de cores (rocket): #F6B28C, #C61851, #411B45
+
+
+
+*****
+
+formulação de perguntas a serem respondidas
+		
+****
+
+adicionar referências na pesquisa de análise de dados exploratória
