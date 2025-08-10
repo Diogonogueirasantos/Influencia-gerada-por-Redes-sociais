@@ -15,4 +15,9 @@ formulação de perguntas a serem respondidas
 		
 ****
 
-adicionar referências na pesquisa de análise de dados exploratória
+adicionar referências na pesquisa de análise de dados exploratória 
+
+****
+
+paleta de cores utilizada: #145f82, #e87331, #186C24
+		
